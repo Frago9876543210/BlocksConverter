@@ -1,0 +1,13 @@
+name: BlocksConverter
+main: Frago9876543210\BlocksConverter\Main
+version: 1.0
+api: 3.0.0-ALPHA10
+author: Frago9876543210
+
+commands:
+ bs:
+  description: "BlocksConverter command"
+  permission: bs
+permissions:
+ bs:
+  default: op
