@@ -1,7 +1,7 @@
 name: BlocksConverter
 main: Frago9876543210\BlocksConverter\Main
 version: 1.0
-api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
+api: 4.0.0
 author: Frago9876543210
 
 commands:
